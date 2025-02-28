@@ -1,6 +1,6 @@
 # Goversify
 
-<p align="center">
+<p>
   <a href="https://github.com/khulnasoft/goversify/actions/workflows/test.yml">
     <img src="https://github.com/khulnasoft/goversify/workflows/Test/badge.svg?branch=main" alt="Build Status">
   </a>

@@ -1,8 +1,22 @@
 # Goversify
 
-![Test](https://github.com/khulnasoft/goversify/workflows/Test/badge.svg?branch=main)
-[![Go Report Card](https://goreportcard.com/badge/github.com/khulnasoft/goversify)](https://goreportcard.com/report/github.com/khulnasoft/goversify)
-![GitHub](https://img.shields.io/github/license/khulnasoft/goversify)
+<p align="center">
+  <a href="https://github.com/khulnasoft/goversify/actions/workflows/test.yml">
+    <img src="https://github.com/khulnasoft/goversify/workflows/Test/badge.svg?branch=main" alt="Build Status">
+  </a>
+  <a href="https://goreportcard.com/report/github.com/khulnasoft/goversify">
+    <img src="https://goreportcard.com/badge/github.com/khulnasoft/goversify" alt="Go Report Card">
+  </a>
+  <a href="https://pkg.go.dev/github.com/khulnasoft/goversify">
+    <img src="https://pkg.go.dev/badge/github.com/khulnasoft/goversify.svg" alt="Go Reference">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/github/license/khulnasoft/goversify" alt="License">
+  </a>
+  <a href="https://github.com/khulnasoft/goversify/stargazers">
+    <img src="https://img.shields.io/github/stars/khulnasoft/goversify?style=social" alt="GitHub Stars">
+  </a>
+</p>
 
 Goversify is a powerful Go library for parsing, comparing, and validating version constraints. It supports **Semantic Versioning (SemVer)** and **extended versioning schemes**, making it ideal for version management and dependency resolution.
 
